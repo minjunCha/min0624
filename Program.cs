@@ -9,7 +9,7 @@ namespace FirstProj
         string chA = "abcde";
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello IU!");
+            Console.WriteLine("Hello BTS!");
             // Console.WriteLine(numA);
             //for (int i = 0; i < 10; i++)
             // Console.WriteLine(numA);
